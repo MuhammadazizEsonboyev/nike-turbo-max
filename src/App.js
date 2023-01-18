@@ -1,11 +1,12 @@
 import React from "react";
-
+import Section from "./components/Section/Section";
 
 
 function App() {
   return (
    <>
-   <h1>Hello world</h1>
+   
+   <Section/>
    </>
   );
 }

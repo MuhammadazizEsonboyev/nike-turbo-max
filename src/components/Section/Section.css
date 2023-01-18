@@ -1,0 +1,30 @@
+.telling {
+  font-family: "Raleway";
+  padding-top: 100px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 130%;
+  color: #051101;
+
+}
+.box {
+  background: #f6fff3;
+  border-radius: 10px;
+  width: 618.52px;
+  height: 529.84px;
+  padding-left: 95px;
+
+}
+.your {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: #051101;
+  opacity: 0.7;
+}
+.word{
+  margin-left: 70px;
+}
