@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Navbar.css"
-const logo = require("./img/Vector.png")
+const logo = require("../../img/Vector.png")
 
 export default function Navbar() {
     return (
@@ -13,7 +13,7 @@ export default function Navbar() {
                 </div>
                 <div className="col-4">
                     <ul className="list">
-                        <li className="active list_item">Home</li>
+                        <li className="active list_item"><span>Home</span></li>
                         <li className="list_item">Product</li>
                         <li className="list_item">About</li>
                         <li className="list_item">Review</li>

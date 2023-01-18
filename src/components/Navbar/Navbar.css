@@ -37,3 +37,13 @@ border-radius: 4px;
 border: none;
 margin-top: -9px;
 }
+
+.list_item span{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #f50909;
+}
