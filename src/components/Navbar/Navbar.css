@@ -1,6 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+nav{
+    background: #EBFFE4;
 }
 .list{
     display: flex;
@@ -17,18 +21,29 @@
     font-size: 16px;
     line-height: 19px;
     text-align: center;
-    color: #051101;
+    color: #020302;
     opacity: 0.6;
 }
 .active{
 
-color: black;
+color: rgb(223, 20, 20);
 }
 
 .btn_nav{
-    padding: 15px 30px;
+    padding: 12px 30px;
     color: white;
 background: #5CBE3A;
 border-radius: 4px;
 border: none;
+margin-top: -9px;
+}
+
+.list_item span{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #f50909;
 }
