@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.list_item{
+    padding-top: 5px;
+    list-style: none;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #051101;
+    opacity: 0.6;
+}
+.active{
+
+color: black;
+}
+
+.btn_nav{
+    padding: 15px 30px;
+    color: white;
+background: #5CBE3A;
+border-radius: 4px;
+border: none;
+}
