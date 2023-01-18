@@ -5,7 +5,8 @@ const logo = require("./img/Vector.png")
 export default function Navbar() {
     return (
         <>
-        <div className="container">
+       <nav>
+       <div className="container">
             <div className="row justify-content-between mt-5">
                 <div className="col-2">
                     <img src={logo} alt="" />
@@ -22,6 +23,7 @@ export default function Navbar() {
                     <button className="btn_nav">Shpo now</button></div>
             </div>
         </div>
+       </nav>
         </>
     )
 }
