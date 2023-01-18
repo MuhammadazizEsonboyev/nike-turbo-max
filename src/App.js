@@ -1,12 +1,16 @@
 import React from "react";
-import Section from "./components/Section/Section";
+import Navbar from "./components/Navbar/Navbar";
+// import Section from "./components/Section/Section";
+
+
 
 
 function App() {
   return (
    <>
    
-   <Section/>
+   <Navbar/>
+   {/* <Section/> */}
    </>
   );
 }
