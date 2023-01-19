@@ -1,0 +1,157 @@
+.header_div2{
+    display: flex;
+}
+
+.header_h1{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 140%;
+/* or 31px */
+
+text-transform: uppercase;
+
+color: #5CBE3A;
+}
+
+.header_text{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 120%;
+
+color: #051101;
+margin-top: 15px;
+}
+
+.header_p{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #051101;
+
+opacity: 0.7;
+margin-top: 25px;
+}
+
+.header_p1{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #051101;
+
+opacity: 0.7;
+margin-top: 10px;
+}
+
+.header_p1 span{
+    color: #5CBE3A;
+    font-size: 20px;
+}
+
+.header_price{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 130%;
+/* or 40px */
+
+
+color: #5CBE3A;
+}
+
+.header_price:s{
+    color: #87D16D;
+}
+
+.buton{
+    margin-top: 35px;
+}
+
+.button_shpo{
+    background: #5CBE3A;
+border-radius: 4px;
+padding: 15px 30px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.button_learn{
+   
+    background: white;
+    border-radius: 4px;
+    padding: 15px 30px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #5CBE3A;
+    margin-left: 20px;
+}
+
+.number{
+    display: flex;
+}
+
+.div{
+    margin-left: 65px;
+}
+
+.header_70{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 85px;
+line-height: 120%;
+/* identical to box height, or 102px */
+
+
+color: #5CBE3A;
+
+}
+
+.header_custo{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+
+color: #051101;
+
+opacity: 0.7;
+}
+
+.img_keta{
+    width: 100%;
+}
