@@ -22,6 +22,7 @@ export default class Navbar extends Component {
                      </ul>
                  </div>
                  
+
                  <div className="col-2">
                      <button className="btn_nav">Shpo now</button></div>
              </div>
