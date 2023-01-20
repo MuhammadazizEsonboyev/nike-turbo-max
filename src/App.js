@@ -3,6 +3,8 @@ import Navbar from "./components/Navbar/Navbar";
 // import Section from "./components/Section/Section";
 
 
+import Section4 from "./components/Section4/Section";
+
 
 
 function App() {
@@ -10,7 +12,11 @@ function App() {
    <>
    
    <Navbar/>
+
    {/* <Section/> */}
+
+   <Section4/>
+
    </>
   );
 }
