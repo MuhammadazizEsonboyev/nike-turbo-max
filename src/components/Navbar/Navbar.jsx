@@ -21,6 +21,7 @@ export default class Navbar extends Component {
                          <li className="list_item">Review</li>
                      </ul>
                  </div>
+                 
                  <div className="col-2">
                      <button className="btn_nav">Shpo now</button></div>
              </div>
