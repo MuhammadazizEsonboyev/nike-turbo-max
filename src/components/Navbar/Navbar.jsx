@@ -15,7 +15,7 @@ export default class Navbar extends Component {
         <header>
           <nav>
             <div className="container">
-              <div className="row justify-content-between mt-5">
+              <div className="row  justify-content-between mt-5">
                 <div className="col-2">
                   <img src={logo} alt="" />
                 </div>
